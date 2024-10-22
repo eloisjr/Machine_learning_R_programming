@@ -9,7 +9,9 @@ This is a final project from a Diploma course called "High Specialty Certificate
 A company has several machines and jobs to do.
 
 • Each job has a set of activities that must be done in a specific order
+
 • Activities must be carried out on specific machines
+
 • The scheduling of activities is done daily
 
 # Problem
